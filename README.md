@@ -10,7 +10,7 @@ L'objectif est de voir dans quelle mesure la traduction directe de comportements
 |---------|-------------|
 | `Simulation.py` | Simulation sur grille 50×50 avec règles comportementales (chasse, déplacement, reproduction, mortalité) |
 | `Réel.py` | Visualisation des données de l'Isle Royale (1980–2019), loups et orignaux |
-| `Exemple.py` | Exemple d'une simulation |
+| `Exemple.gif` | Exemple d'une simulation |
 
 ## Données
 
